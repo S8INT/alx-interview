@@ -2,6 +2,8 @@
 """
 Pascal's Trangle
 """
+
+
 def pascal_triangle(n):
     '''
     Creates a list of lists of integers in a Pascal's triangle
